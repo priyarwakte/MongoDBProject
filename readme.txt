@@ -1,5 +1,3 @@
-CSE 5331 - 001 - Project 2
-        Priyanka Ramdas Wakte (1001920878)
 
 How to run the code:
 Install Mongo Db
